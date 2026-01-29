@@ -1,27 +1,15 @@
-#  Skill Name
+#  Set up and Use GitHub Individually
 
-Author: FirstName LastName
+Author: Jackson Clary
 
-Date: YYYY-MM-DD
+Date: 2026-01-29
 
 ### Summary
 
-Summarize what the skill is about and what you had to do to get it to work. 
+Setting up Github repo.
 
 ### Evidence of Completion
-- Attach a photo or upload a video that captures a demonstration of
-  your solution. Include in the photo/video your BU ID.
-
-<p align="center">
-<img src="./images/ece444.png" width="50%">
-</p>
-<p align="center">
-Template for Including Graphics
-</p>
-
-Or
-
-- [Link to video demo](). Not to exceed 10s
+Screenshot 2026-01-29 at 15.17.48.png
 
 ### AI and Open Source Code Assertions
 
