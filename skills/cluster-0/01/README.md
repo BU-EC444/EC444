@@ -1,27 +1,15 @@
-#  Skill Name
+#  Install ESP32 IDF and Toolchain and Demonstrate ESP32 On-Board Blink
 
-Author: FirstName LastName
+Author: Jackson Clary
 
-Date: YYYY-MM-DD
+Date: 2026-01-29
 
 ### Summary
 
-Summarize what the skill is about and what you had to do to get it to work. 
+Installing Espressif CLI on my local device, then starting an example project and flashing it to an ESP32 board. The screenshot is the results after flashing to board and then testing by running `idf.py -p /dev/cu.usbserial-019FD4C1 monitor`. The location `/dev/cu.*` is the port connected to the board.
 
 ### Evidence of Completion
-- Attach a photo or upload a video that captures a demonstration of
-  your solution. Include in the photo/video your BU ID.
-
-<p align="center">
-<img src="./images/ece444.png" width="50%">
-</p>
-<p align="center">
-Template for Including Graphics
-</p>
-
-Or
-
-- [Link to video demo](). Not to exceed 10s
+<img width="1098" height="497" alt="Screenshot 2026-01-29 at 14 51 45" src="https://github.com/user-attachments/assets/8664ceb7-5230-4f31-a89c-c3395bf1d9b5" />
 
 ### AI and Open Source Code Assertions
 
