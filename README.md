@@ -1,4 +1,4 @@
-# LastName-FirstName
+# Clary-Jackson
 
 Reminders
 - Keep your skill folders organized per the template
