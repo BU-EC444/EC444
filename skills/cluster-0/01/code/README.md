@@ -6,6 +6,8 @@ Date: 2026-01-29
 
 ### Summary
 
+TESTING GIT
+
 Installing Espressif CLI on my local device, then starting an example project and flashing it to an ESP32 board. The screenshot is the results after flashing to board and then testing by running `idf.py -p /dev/cu.usbserial-019FD4C1 monitor`. The location `/dev/cu.*` is the port connected to the board.
 
 ### Evidence of Completion
