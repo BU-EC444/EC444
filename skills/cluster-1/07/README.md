@@ -1,27 +1,15 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Jackson Clary
 
-Date: YYYY-MM-DD
+Date: 2026-02-09
 
 ### Summary
 
-Summarize what the skill is about and what you had to do to get it to work. 
+This task focuses on UART communication over USB, where we built a simple program with 3 modes. To get it working you need to set UART to 0 with TX=1 and RX=3 in Menuconfig, and run the console loop in a separate FreeRTOS task so app_main returns quickly and avoids the task watchdog timeout.
 
 ### Evidence of Completion
-- Attach a photo or upload a video that captures a demonstration of
-  your solution. Include in the photo/video your BU ID.
-
-<p align="center">
-<img src="./images/ece444.png" width="50%">
-</p>
-<p align="center">
-Template for Including Graphics
-</p>
-
-Or
-
-- [Link to video demo](). Not to exceed 10s
+- [Link to video demo](https://drive.google.com/file/d/1lO7nIwf6ZlPTL9h8bNe6eUpK0dnaDJ-O/view?usp=sharing).
 
 ### AI and Open Source Code Assertions
 
