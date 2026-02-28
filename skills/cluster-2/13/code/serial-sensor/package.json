@@ -1,0 +1,13 @@
+{
+  "name": "serial-sensor",
+  "version": "1.0.0",
+  "description": "Read sensor data from ESP32 serial port and log to console and CSV",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "serialport": "^13.0.0"
+  }
+}
